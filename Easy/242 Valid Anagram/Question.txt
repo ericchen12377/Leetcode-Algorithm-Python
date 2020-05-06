@@ -1,0 +1,19 @@
+Given two strings s and t , write a function to determine if t is an anagram of s.
+
+Example 1:
+
+Input: s = "anagram", t = "nagaram"
+Output: true
+1
+2
+Example 2:
+
+Input: s = "rat", t = "car"
+Output: false
+1
+2
+Note:
+
+You may assume the string contains only lowercase alphabets.
+Follow up:
+What if the inputs contain unicode characters? How would you adapt your solution to such case?
