@@ -1,0 +1,42 @@
+Given two strings S and T, return if they are equal when both are typed into empty text editors. # means a backspace character.
+
+Example 1:
+
+Input: S = "ab#c", T = "ad#c"
+Output: true
+Explanation: Both S and T become "ac".
+1
+2
+3
+Example 2:
+
+Input: S = "ab##", T = "c#d#"
+Output: true
+Explanation: Both S and T become "".
+1
+2
+3
+Example 3:
+
+Input: S = "a##c", T = "#a#c"
+Output: true
+Explanation: Both S and T become "c".
+1
+2
+3
+Example 4:
+
+Input: S = "a#c", T = "b"
+Output: false
+Explanation: S becomes "c" while T becomes "b".
+1
+2
+3
+Note:
+
+1 <= S.length <= 200
+1 <= T.length <= 200
+S and T only contain lowercase letters and ‘#’ characters.
+Follow up:
+
+Can you solve it in O(N) time and O(1) space?
