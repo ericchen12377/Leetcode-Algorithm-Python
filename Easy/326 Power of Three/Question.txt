@@ -1,0 +1,29 @@
+Given an integer, write a function to determine if it is a power of three.
+
+Example 1:
+
+Input: 27
+Output: true
+1
+2
+Example 2:
+
+Input: 0
+Output: false
+1
+2
+Example 3:
+
+Input: 9
+Output: true
+1
+2
+Example 4:
+
+Input: 45
+Output: false
+1
+2
+Follow up:
+
+Could you do it without using any loop / recursion?
