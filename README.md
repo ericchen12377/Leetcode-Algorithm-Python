@@ -11,4 +11,5 @@
 - Medium/5-Longest Palindromic Substring
 - Easy/7-Reverse Integer
 - Medium/8-String to Integer (atoi)
+- Easy/9-Palindrome Number
 
