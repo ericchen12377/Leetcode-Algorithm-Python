@@ -13,4 +13,4 @@
 - Medium/8-String to Integer (atoi)
 - Easy/9-Palindrome Number
 - Medium/11-Container With Most Water
-
+- Easy/14-Longest Common Prefix
