@@ -15,3 +15,6 @@
 - Medium/11-Container With Most Water
 - Easy/14-Longest Common Prefix
 - Medium/15-3Sum
+- Medium/16-3Sum Closest
+- Medium/17-Letter Combinations of a Phone Number
+- Medium/18-4Sum
