@@ -25,5 +25,5 @@
 - Medium/24-Swap Nodes in Pairs
 
 
-
--Easy/206-Reverse Linked List
+Connected:
+- Easy/206-Reverse Linked List
