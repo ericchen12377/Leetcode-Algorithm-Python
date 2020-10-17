@@ -22,3 +22,8 @@
 - Easy/20-Valid Parentheses
 - Easy/21-Merge Two Sorted Lists
 - Medium/22-Generate Parentheses
+- Medium/24-Swap Nodes in Pairs
+
+
+
+-Easy/206-Reverse Linked List
