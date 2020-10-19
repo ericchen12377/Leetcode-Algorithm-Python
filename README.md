@@ -24,6 +24,10 @@
 - Medium/22-Generate Parentheses
 - Medium/24-Swap Nodes in Pairs
 - Hard/25-Reverse Nodes in k-Group
+- Easy/26-Remove Duplicates from Sorted Array
+- Easy/27-Remove Element
+- Easy/28-Implement strStr()
+- Medium/29-Divide Two Integers
 
 Connected:
 - Easy/206-Reverse Linked List
