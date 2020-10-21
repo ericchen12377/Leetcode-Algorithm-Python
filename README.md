@@ -28,6 +28,8 @@
 - Easy/27-Remove Element
 - Easy/28-Implement strStr()
 - Medium/29-Divide Two Integers
+- Hard/30-Substring with Concatenation of All Words
+- Hard/32-Longest Valid Parentheses
 
 Connected:
 - Easy/206-Reverse Linked List
