@@ -30,6 +30,9 @@
 - Medium/29-Divide Two Integers
 - Hard/30-Substring with Concatenation of All Words
 - Hard/32-Longest Valid Parentheses
+- Medium/33-Search in Rotated Sortted Array
+- Easy/35-Search Insert Position
+- Medium/36-Valid Sudoku
 
 Connected:
 - Easy/206-Reverse Linked List
