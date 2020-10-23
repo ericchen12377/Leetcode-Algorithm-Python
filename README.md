@@ -33,6 +33,10 @@
 - Medium/33-Search in Rotated Sortted Array
 - Easy/35-Search Insert Position
 - Medium/36-Valid Sudoku
+- Medium/39-Combination Sum
+- Medium/40-Combination Sum II
+- Hard/41-First Missing Positive
+- Hard/42-Trapping Rain Water
 
 Connected:
 - Easy/206-Reverse Linked List
