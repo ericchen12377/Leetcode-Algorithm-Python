@@ -37,6 +37,9 @@
 - Medium/40-Combination Sum II
 - Hard/41-First Missing Positive
 - Hard/42-Trapping Rain Water
+- Hard/45-Jump Game II
+- Medium/46-Permutation
+- Mediuam/47-Permutation II
 
 Connected:
 - Easy/206-Reverse Linked List
