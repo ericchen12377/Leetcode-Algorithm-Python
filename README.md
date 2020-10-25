@@ -41,6 +41,8 @@
 - Medium/46-Permutation
 - Mediuam/47-Permutation II
 - Medium/49-Group Anagrams
+- Medium/50-Pow(x,n)
+- Easy/53-Maximum Subarray
 
 Connected:
 - Easy/206-Reverse Linked List
