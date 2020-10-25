@@ -40,6 +40,7 @@
 - Hard/45-Jump Game II
 - Medium/46-Permutation
 - Mediuam/47-Permutation II
+- Medium/49-Group Anagrams
 
 Connected:
 - Easy/206-Reverse Linked List
