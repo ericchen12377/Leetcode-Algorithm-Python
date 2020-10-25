@@ -43,6 +43,10 @@
 - Medium/49-Group Anagrams
 - Medium/50-Pow(x,n)
 - Easy/53-Maximum Subarray
+- Medium/55-Jump Game
+- Medium/56-Merge Intervals
+- Medium/57-Insert Interval
+- Easy/58-Length of Last World
 
 Connected:
 - Easy/206-Reverse Linked List
