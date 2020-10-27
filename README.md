@@ -47,6 +47,11 @@
 - Medium/56-Merge Intervals
 - Medium/57-Insert Interval
 - Easy/58-Length of Last World
+- Hard/60-Permutation Sequence
+- Medium/61-Rotate List
+- Medium/62-Unique Paths
+- Medium/63-Unique Paths II
+- Medium/64-Minimum Path Sum
 
 Connected:
 - Easy/206-Reverse Linked List
