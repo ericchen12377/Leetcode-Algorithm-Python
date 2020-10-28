@@ -52,6 +52,11 @@
 - Medium/62-Unique Paths
 - Medium/63-Unique Paths II
 - Medium/64-Minimum Path Sum
+- Easy/66-Plus One
+- Easy/69-Sqrt(x)
+- Easy/70-Climbing Stairs
+
 
 Connected:
 - Easy/206-Reverse Linked List
+- Easy/67-Add Binary
