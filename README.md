@@ -55,6 +55,11 @@
 - Easy/66-Plus One
 - Easy/69-Sqrt(x)
 - Easy/70-Climbing Stairs
+- Medium/71-Simplify Path
+- Medium/74-Search a 2D Matrix
+- Medium/75-Sort Colors
+- Hard/76-Minimum Window Substring
+- Medium/77.Combinations
 
 
 Connected:
