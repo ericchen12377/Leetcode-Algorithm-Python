@@ -60,6 +60,11 @@
 - Medium/75-Sort Colors
 - Hard/76-Minimum Window Substring
 - Medium/77.Combinations
+- Medium/78-Subsets
+- Medium/79-Word Search
+- Medium/80 REmove Duplicates from Sorted Array II
+- Medium/82-REmove Duplicates from Sorted List II
+- Easy/83-Remove Duplicates from Sorted List
 
 
 Connected:
