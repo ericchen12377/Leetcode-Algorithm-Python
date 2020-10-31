@@ -65,7 +65,7 @@
 - Medium/80 REmove Duplicates from Sorted Array II
 - Medium/82-REmove Duplicates from Sorted List II
 - Easy/83-Remove Duplicates from Sorted List
-
+- Medium/86-Partition List
 
 Connected:
 - Easy/206-Reverse Linked List
