@@ -66,6 +66,10 @@
 - Medium/82-REmove Duplicates from Sorted List II
 - Easy/83-Remove Duplicates from Sorted List
 - Medium/86-Partition List
+- Hard/87 Scramble String
+- Easy/88-Merge Sorted Array
+- Medium/90-Subset II
+- Medium/92-Reverse Linked List II
 
 Connected:
 - Easy/206-Reverse Linked List
