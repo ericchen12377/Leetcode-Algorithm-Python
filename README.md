@@ -70,6 +70,7 @@
 - Easy/88-Merge Sorted Array
 - Medium/90-Subset II
 - Medium/92-Reverse Linked List II
+- Medium/94-Binary Tree Inorder Traversal
 
 Connected:
 - Easy/206-Reverse Linked List
