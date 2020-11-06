@@ -71,6 +71,11 @@
 - Medium/90-Subset II
 - Medium/92-Reverse Linked List II
 - Medium/94-Binary Tree Inorder Traversal
+- Medium/98-Validate Binary Search Tree
+- Hard/99-Recover Binary Search Tree
+- Easy/100-Same Tree
+- Easy/101-Symmetric Tree
+- Medium/102-Binary Tree Level Order Traversal
 
 Connected:
 - Easy/206-Reverse Linked List
