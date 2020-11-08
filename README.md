@@ -76,7 +76,11 @@
 - Easy/100-Same Tree
 - Easy/101-Symmetric Tree
 - Medium/102-Binary Tree Level Order Traversal
-
+- Medium/103-BInary Tree Zigzag Level Order Traversal
+- Easy/104-Maximum Depth of Binary Tree
+- Easy/107-Binary Tree Level Order Traversal II
+- Easy/110-Balanced Binary Tree
+- Easy/111-Minimum Depth of Binary Tree
 
 Connected:
 - Easy/206-Reverse Linked List
