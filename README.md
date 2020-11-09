@@ -81,6 +81,11 @@
 - Easy/107-Binary Tree Level Order Traversal II
 - Easy/110-Balanced Binary Tree
 - Easy/111-Minimum Depth of Binary Tree
+- Easy/112-Path Sum
+- Medium/113-Path Sum II
+- Easy/121-Best Time to Buy and Sell Stock
+- Easy/122-Best Time to Buy and Sell Stock II
+- Hard/124-Binary Tree Maximum Path Sum
 
 Connected:
 - Easy/206-Reverse Linked List
