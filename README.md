@@ -86,6 +86,9 @@
 - Easy/121-Best Time to Buy and Sell Stock
 - Easy/122-Best Time to Buy and Sell Stock II
 - Hard/124-Binary Tree Maximum Path Sum
+- Easy/125-Valid Palindrome
+- Medium/127-Word Ladder
+- Medium/129-Sum Root to Leaf Numbers
 
 Connected:
 - Easy/206-Reverse Linked List
