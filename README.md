@@ -89,6 +89,10 @@
 - Easy/125-Valid Palindrome
 - Medium/127-Word Ladder
 - Medium/129-Sum Root to Leaf Numbers
+- Medium/131-Palindrome Partitioning
+- Easy/136-Single Number
+- Medium/138-Copy List with Random Pointer
+- Medium/139-Word Break
 
 Connected:
 - Easy/206-Reverse Linked List
