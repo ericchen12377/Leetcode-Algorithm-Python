@@ -93,6 +93,11 @@
 - Easy/136-Single Number
 - Medium/138-Copy List with Random Pointer
 - Medium/139-Word Break
+- Easy/141-Linked List Cycle
+- Medium/142-Linked List Cysle II
+- Medium/143-Reorder List
+- Medium/144-Binary Tree Preorder Traversal
+- Medium/145-Binary Tree Postorder Traversal
 
 Connected:
 - Easy/206-Reverse Linked List
