@@ -98,6 +98,8 @@
 - Medium/143-Reorder List
 - Medium/144-Binary Tree Preorder Traversal
 - Medium/145-Binary Tree Postorder Traversal
+- Medium/148-Sort List
+- Medium/150-Evaluate Reverse Polish Notation
 
 Connected:
 - Easy/206-Reverse Linked List
