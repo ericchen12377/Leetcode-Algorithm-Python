@@ -100,6 +100,11 @@
 - Medium/145-Binary Tree Postorder Traversal
 - Medium/148-Sort List
 - Medium/150-Evaluate Reverse Polish Notation
+- Medium/151-Reverse Words in a String
+- Medium/153-Find Minimum in Rotated Sorted Array
+- Hard/154-Find Minimum in Rotated Sorted Array II
+- Easy/155-Min Stack
+- Medium/156-Binary Tree Upside Down
 
 Connected:
 - Easy/206-Reverse Linked List
