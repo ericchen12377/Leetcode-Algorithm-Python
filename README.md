@@ -111,6 +111,10 @@
 - Easy/163-Missing Ranges
 - Medium/165-Compare Version Numbers
 - Easy/167-Two Sum II Input array is sorted
+- Easy/168-Excel Sheet Column Title
+- Easy/169-Majority Element
+- Easy/170-Two Sum III Data Strucuture Design
+- Easy/171-Excel Sheet Column Number
 
 Connected:
 - Easy/206-Reverse Linked List
