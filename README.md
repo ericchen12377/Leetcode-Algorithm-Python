@@ -105,6 +105,12 @@
 - Hard/154-Find Minimum in Rotated Sorted Array II
 - Easy/155-Min Stack
 - Medium/156-Binary Tree Upside Down
+- Easy/160-Intersection of Two Linked Lists
+- Medium/161-One Edit Distance
+- Medium/162-Find Peak Element
+- Easy/163-Missing Ranges
+- Medium/165-Compare Version Numbers
+- Easy/167-Two Sum II Input array is sorted
 
 Connected:
 - Easy/206-Reverse Linked List
