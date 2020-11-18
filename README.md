@@ -119,7 +119,13 @@
 - Medium/186-Reverse Words in a String II
 - Medium/187-Repeated DNS Sequences
 - Easy/198-House Robber
+- Medium/199-Binary Tree Right Side View
+- Medium/200-Number of Islands
+- Easy/202-Happy Number
+- Easy/203-Remove Linked List Elements
+- Easy/205-Isomorphic Strings
+- Easy/206-Reverse Linked List
+- Medium/209-Minimum Size Subarray Sum
 
 Connected:
-- Easy/206-Reverse Linked List
 - Easy/67-Add Binary
