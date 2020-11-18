@@ -115,6 +115,10 @@
 - Easy/169-Majority Element
 - Easy/170-Two Sum III Data Strucuture Design
 - Easy/171-Excel Sheet Column Number
+- Medium/173-Binary Search Tree Iterator
+- Medium/186-Reverse Words in a String II
+- Medium/187-Repeated DNS Sequences
+- Easy/198-House Robber
 
 Connected:
 - Easy/206-Reverse Linked List
