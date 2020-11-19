@@ -126,6 +126,11 @@
 - Easy/205-Isomorphic Strings
 - Easy/206-Reverse Linked List
 - Medium/209-Minimum Size Subarray Sum
-
+- Medium/213-House Robber II
+- Medium/215-Kth Largest Element in an Array
+- Medium/216-Combination Sum III
+- Easy/217-Contains Duplicate
+- Easy/219-Contains Duplicate II
+- Medium/220-Contrains Duplicate III
 Connected:
 - Easy/67-Add Binary
