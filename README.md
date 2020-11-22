@@ -132,5 +132,10 @@
 - Easy/217-Contains Duplicate
 - Easy/219-Contains Duplicate II
 - Medium/220-Contrains Duplicate III
+- Medium/221-Maximal Square
+- Medium/224-Basic Calculator
+- Easy/225-Implement Stack using Queues
+- Easy/226-Invert Binary Tree
+
 Connected:
 - Easy/67-Add Binary
