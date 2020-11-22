@@ -136,6 +136,9 @@
 - Medium/224-Basic Calculator
 - Easy/225-Implement Stack using Queues
 - Easy/226-Invert Binary Tree
+- Medium/227-Basic Calculator II
+- Easy/228-Summary Ranges
+- Medium/229-Majority Element II
 
 Connected:
 - Easy/67-Add Binary
