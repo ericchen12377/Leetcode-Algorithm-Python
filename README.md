@@ -141,7 +141,7 @@
 - Medium/227-Basic Calculator II
 - Easy/228-Summary Ranges
 - Medium/229-Majority Element II
-- Medium/230-Kth Smallest  Element in a BST
+- Medium/230-Kth Smallest Element in a BST
 
 Connected:
 - Easy/67-Add Binary
