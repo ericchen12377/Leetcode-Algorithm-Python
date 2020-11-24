@@ -3,6 +3,8 @@
 
 #### [1st Round](1stRound)
 - All easy questions updated. 
+- Hard/23-Merge K Sorted Lists
+- Medium/994-Rotting Oranges
 
 #### [Data Science 400](DS-400) 
 - Easy/1-Two Sum
