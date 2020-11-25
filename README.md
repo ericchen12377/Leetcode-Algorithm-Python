@@ -4,6 +4,8 @@
 #### [1st Round](1stRound)
 - All easy questions updated. 
 - Hard/23-Merge K Sorted Lists
+- Medium/102-Binary Tree Level Order Traversal
+- Medium/449-Serialize and Deserialize BST
 - Medium/994-Rotting Oranges
 
 #### [Data Science 400](DS-400) 
@@ -142,6 +144,7 @@
 - Easy/228-Summary Ranges
 - Medium/229-Majority Element II
 - Medium/230-Kth Smallest Element in a BST
+- Easy/232-Implement Queue using Stacks
 
 Connected:
 - Easy/67-Add Binary
