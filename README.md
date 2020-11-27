@@ -4,8 +4,10 @@
 #### [1st Round](1stRound)
 - All easy questions updated. 
 - Hard/23-Merge K Sorted Lists
+- Medium/74-Search a 2D Matrix
 - Medium/75-Sort Color
 - Medium/102-Binary Tree Level Order Traversal
+- Medium/240-Search a 2D Matrix II
 - Hard/297-Serialize and Deserialize Binary Tree
 - Medium/449-Serialize and Deserialize BST
 - Medium/994-Rotting Oranges
