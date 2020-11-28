@@ -3,7 +3,9 @@
 
 #### [1st Round](1stRound)
 - All easy questions updated. 
+- Medium/11-Container With Most Water
 - Hard/23-Merge K Sorted Lists
+- Hard/42-Trapping Rain Water
 - Medium/74-Search a 2D Matrix
 - Medium/75-Sort Color
 - Medium/102-Binary Tree Level Order Traversal
