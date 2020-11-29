@@ -3,6 +3,7 @@
 
 #### [1st Round](1stRound)
 - All easy questions updated. 
+- Medium/3-Longest Substring Without Repeating Characters
 - Medium/11-Container With Most Water
 - Hard/23-Merge K Sorted Lists
 - Hard/42-Trapping Rain Water
