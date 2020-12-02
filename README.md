@@ -6,17 +6,20 @@
 - Medium/3-Longest Substring Without Repeating Characters
 - Medium/11-Container With Most Water
 - Hard/23-Merge K Sorted Lists
+- Medium/34-Find First and Last Position of Element in Sorted Array
 - Hard/42-Trapping Rain Water
 - Medium/74-Search a 2D Matrix
 - Medium/75-Sort Color
 - Medium/92-Reverse Linked List II
 - Medium/102-Binary Tree Level Order Traversal
 - Medium/142-Linked List Cycle II
+- Medium/215- Kth Largest Element in an Array
 - Medium/240-Search a 2D Matrix II
 - Hard/297-Serialize and Deserialize Binary Tree
 - Medium/430-Flatten a Multilevel Doubly Linked List
 - Medium/449-Serialize and Deserialize BST
 - Medium/994-Rotting Oranges
+- Medium/1249-Minimum Remove to Make Valid Parentheses
 
 #### [Data Science 400](DS-400) 
 - Easy/1-Two Sum
