@@ -1,5 +1,5 @@
 # Leetcode-Algorithm-Python 
- Leetcode Algorithm Practice in Python
+ Leetcode Algorithm Practice in Python 
 
 #### [1st Round](1stRound)
 - All easy questions updated.  
