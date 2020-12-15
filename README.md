@@ -169,6 +169,12 @@
 - Medium/236-Lowest Common Ancestor of a Binary Tree
 - Easy/237-Delete Node in a Linked List
 - Medium/238-Produt of Array Except Self
+- Hard/239-Slideing Window Maximum
+- Medium/240-Seach a 2D Matrix II
+- Easy/242-Valid Anagram
+- Easy/243-Shortest Word Distance
+- Medium/244-Shortest Word Distance II
+- Medium/245-Shortest Word Distance III
 
 Connected:
 - Easy/67-Add Binary
