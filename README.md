@@ -175,6 +175,9 @@
 - Easy/243-Shortest Word Distance
 - Medium/244-Shortest Word Distance II
 - Medium/245-Shortest Word Distance III
+- Easy/246-Strobogrammatic Number I
+- Medium/247-Strobogrammatic Number II
+- Medium/250-Count Univalue Subtrees
 
 Connected:
 - Easy/67-Add Binary
