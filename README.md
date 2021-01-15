@@ -178,6 +178,8 @@
 - Easy/246-Strobogrammatic Number I
 - Medium/247-Strobogrammatic Number II
 - Medium/250-Count Univalue Subtrees
-
+- Medium/251-Flatten 2D Vector
+- Easy/Meeting Room
+- Medium/Meeting Room II
 Connected:
 - Easy/67-Add Binary
