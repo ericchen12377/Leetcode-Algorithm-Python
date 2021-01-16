@@ -179,7 +179,10 @@
 - Medium/247-Strobogrammatic Number II
 - Medium/250-Count Univalue Subtrees
 - Medium/251-Flatten 2D Vector
-- Easy/Meeting Room
-- Medium/Meeting Room II
+- Easy/252-Meeting Room
+- Medium/253-Meeting Room II
+- Medium/254-Factor Combinations
+- Medium/255-Verify Preorder Sequence in Binary Search Tree
+- Medium/256-Paint House
 Connected:
 - Easy/67-Add Binary
