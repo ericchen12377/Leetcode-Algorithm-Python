@@ -76,6 +76,7 @@
 - Medium/63-Unique Paths II
 - Medium/64-Minimum Path Sum
 - Easy/66-Plus One
+- Easy/67-Add Binary
 - Easy/69-Sqrt(x)
 - Easy/70-Climbing Stairs
 - Medium/71-Simplify Path
@@ -184,5 +185,4 @@
 - Medium/254-Factor Combinations
 - Medium/255-Verify Preorder Sequence in Binary Search Tree
 - Medium/256-Paint House
-Connected:
-- Easy/67-Add Binary
+
