@@ -26,6 +26,7 @@
 - Medium/449-Serialize and Deserialize BST
 - Medium/994-Rotting Oranges
 - Medium/1249-Minimum Remove to Make Valid Parentheses
+- Medium/1353-Maximum Number of Events That Can be Attended
 
 #### [Data Science 400](DS-400) 
 - Easy/1-Two Sum
