@@ -26,6 +26,7 @@
 - Medium/449-Serialize and Deserialize BST
 - Medium/994-Rotting Oranges
 - Medium/1249-Minimum Remove to Make Valid Parentheses
+- Medium/1353-Maximum Number of Events That Can be Attended
 
 #### [Data Science 400](DS-400) 
 - Easy/1-Two Sum
@@ -76,6 +77,7 @@
 - Medium/63-Unique Paths II
 - Medium/64-Minimum Path Sum
 - Easy/66-Plus One
+- Easy/67-Add Binary
 - Easy/69-Sqrt(x)
 - Easy/70-Climbing Stairs
 - Medium/71-Simplify Path
@@ -179,7 +181,9 @@
 - Medium/247-Strobogrammatic Number II
 - Medium/250-Count Univalue Subtrees
 - Medium/251-Flatten 2D Vector
-- Easy/Meeting Room
-- Medium/Meeting Room II
-Connected:
-- Easy/67-Add Binary
+- Easy/252-Meeting Room
+- Medium/253-Meeting Room II
+- Medium/254-Factor Combinations
+- Medium/255-Verify Preorder Sequence in Binary Search Tree
+- Medium/256-Paint House
+
