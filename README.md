@@ -186,4 +186,15 @@
 - Medium/254-Factor Combinations
 - Medium/255-Verify Preorder Sequence in Binary Search Tree
 - Medium/256-Paint House
+- Easy/257-Binary Tree Paths
+- Easy/258-Add Digits
+- Medium/259-3Sum Smaller
+- Easy/263-Ugly Number
+- Medium/264-Ugly Number II
+- Easy/266-Palindrome Permutation
+- Medium/267-Palindrome Permutation II
+- Easy/268-Missing Number
+
+
+
 
