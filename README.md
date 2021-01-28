@@ -194,6 +194,9 @@
 - Easy/266-Palindrome Permutation
 - Medium/267-Palindrome Permutation II
 - Easy/268-Missing Number
+- Easy/270-Closest Binary Search Tree Value
+- Medium/274-H-Index
+- Medium/275-H-Index II
 
 
 
