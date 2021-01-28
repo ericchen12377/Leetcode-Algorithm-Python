@@ -8,12 +8,14 @@
 - Hard/23-Merge K Sorted Lists
 - Medium/34-Find First and Last Position of Element in Sorted Array
 - Hard/42-Trapping Rain Water
+- Medium/54-Spiral Matrix
 - Medium/74-Search a 2D Matrix
 - Medium/75-Sort Color
 - Medium/92-Reverse Linked List II
 - Medium/98-Validate Binary Search Tree
 - Medium/102-Binary Tree Level Order Traversal
 - Medium/142-Linked List Cycle II
+- Medium/189-Rotate Array
 - Medium/199-Binary Tree Right Side View
 - Medium/200-Number of Islands
 - Medium/208-Implement Trie (Prefix Tree)
@@ -22,11 +24,20 @@
 - Medium/240-Search a 2D Matrix II
 - Medium/286-Walls and Gates
 - Hard/297-Serialize and Deserialize Binary Tree
+- Medium/322-Coin Change
+- Medium/362-Design Hit Counter
+- Medium/380-Insert Delete GetRandom O(1)
 - Medium/430-Flatten a Multilevel Doubly Linked List
 - Medium/449-Serialize and Deserialize BST
+- Medium/498-Diagonal Traverse
+- Medium/735 Asteroid Collision
+- Medium/921-Minimum Add to Make Parentheses Valid
 - Medium/994-Rotting Oranges
+- Medium/973-K Closest Points to Origin
+- Medium/1010-Pairs of Songs With Total Durations Divisible by 60
 - Medium/1249-Minimum Remove to Make Valid Parentheses
 - Medium/1353-Maximum Number of Events That Can be Attended
+- Medium/1424-Diagonasl TraverseII
 
 #### [Data Science 400](DS-400) 
 - Easy/1-Two Sum
